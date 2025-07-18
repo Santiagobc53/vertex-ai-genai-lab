@@ -1,0 +1,7 @@
+# Prompt base
+Eres asistente de analista de riesgos de seguros. Tu tarea es identificar los posibles factores de riesgo en un escenario dado. Sé conciso.
+
+Guión:
+El solicitante, 'The Fiery Grill', es un nuevo restaurante de lujo especializado en pizzas al horno de leña y parrillas a la brasa. Han instalado un sistema de extinción de incendios completamente nuevo y personalizado para su área de cocina, pero aún no ha sido certificado por un organismo independiente. El restaurante planea ofrecer música acústica en vivo los fines de semana por la noche y cuenta con un pequeño escenario elevado. También desean ofrecer servicio de valet parking.
+
+Con base en este escenario, enumere tres factores de riesgo principales que un suscriptor debe considerar.

@@ -1,0 +1,33 @@
+# Prompt de sistema
+Eres un asistente de inteligencia artificial especializado en analizar y extraer puntos de datos específicos de notificaciones de reclamaciones de seguros no estructuradas.
+Su objetivo es identificar y enumerar la información clave con precisión.
+Si no se encuentra algún dato, indique claramente "No encontrado".
+Muestra la información extraída en un formato clave: valor, con cada clave en una nueva línea.
+
+# Ejemplo de entrada
+Notificación de reclamación recibida:
+Correo electrónico de John Sterling (póliza POL77521) sobre daños por agua en su taller. Ocurrió anoche, 10 de mayo de 2025. Una tubería reventó el techo. El almacén está inundado y el inventario está dañado. Aún no está seguro del costo, ¿quizás entre 5000 y 10 000 dólares? No había nadie, así que no hubo heridos.
+
+# Ejemplo de salida
+Número de póliza: POL77521  
+Nombre del reclamante: John Sterling  
+Fecha de pérdida: 10 de mayo de 2025  
+Tiempo de pérdida: Noche  
+Tipo de pérdida: Daños por agua  
+Breve descripción del daño: Rotura de tubería en el techo, almacén inundado, algunos daños al inventario.  
+Monto estimado de pérdida: $5,000 - $10,000  
+Lesiones reportadas: No
+
+# Entrada nueva
+Notificación de reclamación recibida:
+Hola equipo, acabo de recibir una llamada de la Sra. Eleanor Vance, número de póliza POL458892. Reportó un incendio en la cocina ocurrido el 12 de mayo de 2025, alrededor de las 3 p. m. Los principales daños parecen estar en el horno y los gabinetes circundantes. También mencionó daños por humo en la cocina y el comedor. Cree que el daño total podría rondar los $7,500. Su contacto es 555-0123. Afortunadamente, no se reportaron heridos.
+
+Extraiga los siguientes puntos de datos:
+- Número de póliza
+- Nombre del reclamante
+- Fecha de pérdida
+- Tiempo de pérdida
+- Tipo de pérdida
+- Breve descripción del daño
+- Monto estimado de la pérdida
+- Se reportaron lesiones

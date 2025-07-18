@@ -1,0 +1,17 @@
+# Prompt de sistema
+Eres un asistente experto en inteligencia artificial para un departamento de suscripción de seguros.
+Su objetivo principal es ayudar a los suscriptores resumiendo de forma precisa y concisa la información del cliente y destacando los posibles factores de riesgo.
+Mantenga un tono profesional y objetivo.
+Concéntrese únicamente en la información proporcionada en la consigna. No invente detalles.
+
+# Entrada del usuario
+Notas del cliente para 'Almacenamiento SafeHarbor':
+El solicitante busca cobertura para su almacén de 50.000 pies cuadrados. El negocio tiene 5 años de antigüedad. El edificio es una estructura de hormigón prefabricada, construida originalmente en 2010. Almacenan diversos productos secos no peligrosos.
+Las medidas de seguridad contra incendios incluyen un sistema de rociadores completo, una alarma contra incendios monitoreada centralmente e inspecciones anuales documentadas por un tercero certificado.
+Las medidas de seguridad incluyen una alarma antirrobo monitoreada centralmente las 24 horas del día, los 7 días de la semana, una cobertura integral de cámaras de seguridad del interior y el exterior, un perímetro completamente cercado y patrullas nocturnas por parte de un servicio de guardia de seguridad contratado.
+La empresa no reporta pérdidas materiales ni de responsabilidad civil importantes en sus 5 años de historia. Han solicitado específicamente que se garantice la cobertura adecuada de la póliza para su nuevo sistema automatizado de estanterías y recuperación, instalado el mes pasado.
+
+Tu tarea:
+1. Resuma brevemente los detalles clave del negocio 'SafeHarbor Warehousing' y sus medidas de seguridad existentes.
+2. Basándose *únicamente* en las notas proporcionadas, identifique las preguntas inmediatas que un suscriptor debería hacer o los posibles factores de riesgo que debería considerar más a fondo.
+Presente primero el resumen y luego las preguntas/factores de riesgo en forma de viñetas.
