@@ -24,7 +24,7 @@
 ### ✅ Tarea 1 – Crear aplicación desde un prompt
 ✔️ Prompt creado: `Insurance Risk Summary - Prototype`  
 ✔️ Aplicación desplegada en Cloud Run  
-🔗 Enlace: [pendiente]  
+🔗 Enlace: https://genai-app-insurancerisksummary-prot-1-17528750064-285732402359.us-central1.run.app/?key=qge5f3vg6r5upuag
 
 ### ✅ Tarea 2 – Prompt engineering (zero-shot y few-shot)
 - Prompt base y ejemplo cargado
