@@ -21,14 +21,19 @@
 
 ## Bitácora de tareas
 
-### ✅ Tarea 1 – Crear aplicación desde un prompt
-✔️ Prompt creado: `Insurance Risk Summary - Prototype`  
-✔️ Aplicación desplegada en Cloud Run  
-🔗 Enlace: https://genai-app-insurancerisksummary-prot-1-17528750064-285732402359.us-central1.run.app/?key=qge5f3vg6r5upuag
+**Tarea 1 – Crear aplicación desde prompt**
+✔️ Ingreso a Vertex AI Studio desde proyecto temporal de Qwiklabs
+✔️ Prompt creado con instrucciones del sistema + entrada caso SafeHarbor
+✔️ Prompt renombrado: `Insurance Risk Summary - Prototype`
+✔️ Modelo utilizado: Gemini 1.5 Pro
+✔️ Región: us-central1
+✔️ Aplicación desplegada exitosamente en Cloud Run
 
 ### ✅ Tarea 2 – Prompt engineering (zero-shot y few-shot)
 - Prompt base y ejemplo cargado
 - Comparación efectuada con temperatura, top-p y token limit
+🟢 Resultado en formato estructurado clave:valor con precisión total
+
 
 ### ✅ Tarea 3 – Comparación de indicaciones
 - Comparación por instrucciones
