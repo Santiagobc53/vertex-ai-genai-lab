@@ -58,4 +58,4 @@ La aplicación prototipo permite extraer datos clave de notificaciones de sinies
 
 **Santiago Barrera**  
 Tecnólogo industrial en transición a inteligencia artificial, desarrollo cloud y automatización.  
-[GitHub](https://github.com/Santiagobc53) – [LinkedIn](https://linkedin.com/in/tuusuario)
+[GitHub](https://github.com/Santiagobc53) – www.linkedin.com/in/santiagobc53 
